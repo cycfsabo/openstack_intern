@@ -1,4 +1,4 @@
-# Guideline lab Cloud
+# Guide lab Cloud
 
 ## 1. Dựng Lab Devstack branch stable/train. Môi trường: Ubuntu 18.04. 
 
